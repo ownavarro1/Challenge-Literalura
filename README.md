@@ -1,16 +1,15 @@
-<h1 align="center"> BIBLIOTECA GUTENDEX </h1>
+<h1 align="center"> Challenge-Literalura
+ </h1>
 
 Proyecto Challenge del curso de Java y Spring Boot de Alura/Oracle.
 El mismo consiste en una catálogo que consume la API *Gutendex* para consultar libros y los guarda en la base de datos junto con sus autores.
 Una vez guardados en la base hace consultas más personalizadas.
 
-## :clipboard: Enunciado
+Enunciado
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica.
 La API Gutendex es un catálogo de información de más de 70.000 libros presentes en Project Gutenberg (biblioteca en línea y gratuita).
 
-## :hammer:Funcionalidades del proyecto
-
-![cap-1](https://github.com/crismkle/biblioteca-gutendex/assets/122938039/702f1340-33a9-4fba-b008-61fdc96cf959)
+Funcionalidades del proyecto
 
 Muestra un menú al usuario con las opciones:
 1) Busca el nombre ingresado en la API y lo guarda en la base de datos
@@ -23,7 +22,7 @@ Muestra un menú al usuario con las opciones:
 8) Termina el programa
 
 
-## :toolbox: Tecnologías utilizadas
+Tecnologías utilizadas
 - Java JDK v17
 - Maven v4
 - Spring Boot v3.2.6
@@ -31,18 +30,11 @@ Muestra un menú al usuario con las opciones:
 - Jackson databind
 - Spring Data JPA
 
-## 📦 Despliegue
+Despliegue
 
 Usar un IDE para Java, preferentemente IntelliJ.
 Instalar PostgreSQL. Configurar variables de entorno.
 Ejecutar por consola.
 
-## 💻 Ejemplo
-
-Uso de todas las funcionalidades:
-
-[ejemplo.webm](https://github.com/crismkle/biblioteca-gutendex/assets/122938039/ccead216-3b85-4395-a4c5-095c5a2176d3)
 
 
-## ✒️ Autor
-* **Cristian Muñoz** - [crismkle](https://github.com/crismkle)
